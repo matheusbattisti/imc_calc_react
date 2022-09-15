@@ -38,6 +38,7 @@ function App() {
     e.preventDefault();
     setImc("");
     setInfo("");
+    setInfoClass("");
   };
 
   return (
